@@ -1,0 +1,13 @@
+Selenium test cases in order to simulate the behaviour inside the browser for: http://historytools.herokuapp.com/
+A Webdriver object will be created and it would check if redirects are correct.
+
+chromedriver - path already set inside each class
+selenium-java-3.141.59 - all JAR dependencies are already included in the project's module
+
+I used IntelliJ IDE
+How to run:
+Create a Java Project locally with at least Java 1.8 SDK
+Clone the project
+Right click on each class inside src folder and "Run main method" or Add "Application" configuration to the project and specify main method of each class
+
+
